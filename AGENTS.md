@@ -22,3 +22,10 @@ Projeto estático de referência visual da marca.
 - Verificar desktop e mobile, carregamento das fontes, filtros, links de download, dimensões dos PNGs e integridade do ZIP.
 - Usar linguagem clara em português, sem travessão.
 - Registrar contexto neste AGENTS.md; CLAUDE.md contém apenas @AGENTS.md.
+
+## Publicação de 13/10/2026
+- Publicação autorizada pelo usuário. Repositório público hiperbold/design-system-miind.
+- GitHub Pages: https://hiperbold.github.io/design-system-miind/
+- Source: branch main, diretório raiz, .nojekyll.
+- Edição pública contém apenas o DS, exemplos visuais e downloads. Planejamento e documentos internos não fazem parte do repositório.
+

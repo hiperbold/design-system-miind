@@ -10,3 +10,10 @@ Referência visual da MIIND: cores, tipografia, componentes e aplicações para 
 Site estático, sem build, backend, cookies ou coleta de dados. A publicação usa GitHub Pages, branch main, diretório raiz.
 
 As artes são exemplos para revisão. Não constituem anúncios aprovados ou campanhas em veiculação.
+
+## Links
+
+Site: https://hiperbold.github.io/design-system-miind/
+
+Repositório: https://github.com/hiperbold/design-system-miind
+
